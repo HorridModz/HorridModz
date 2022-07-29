@@ -23,3 +23,7 @@ I'm currently learning python and c++.
  
 
 > [Gameguardian Profile](https://gameguardian.net/forum/profile/1234241-horridmodz/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
