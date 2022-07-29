@@ -9,6 +9,8 @@ I post lots of stuff on github, even if it's useless or unfinished.
 
 Feedback is always appreciated!
 
+I'm currently learning python and c++.
+
    **Discord:** 
    
  User12356789#6424 
