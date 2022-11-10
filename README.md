@@ -1,15 +1,9 @@
 # Welcome to my profile!
-I am a 13 year old programmer and game modder.
-
-I love modding il2cpp games and programming.
-
-I'm a noob, but I work hard :)
+I am a 14 year old programmer and game modder.
 
 I post lots of stuff on github, even if it's useless or unfinished.
 
-Feedback is always appreciated!
-
-I'm currently learning python and c++.
+Feel free to use any of my work with credit.
 
    **Discord:** 
    
@@ -23,6 +17,7 @@ I'm currently learning python and c++.
  
 
 > [Gameguardian Profile](https://gameguardian.net/forum/profile/1234241-horridmodz/)
+> [Youtube](https://www.youtube.com/channel/UCt17kVvITO-q-zUICdw7hUQ)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
 
