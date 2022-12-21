@@ -27,3 +27,6 @@ If you would like to contact me, please send me a friend request on discord.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
+
+Languages I Know / Am Learning:
+Lua, C++, C#, Javascript, Python
