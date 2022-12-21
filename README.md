@@ -5,6 +5,8 @@ I post lots of stuff on github, even if it's useless or unfinished.
 
 Feel free to use any of my work with credit.
 
+If you would like to contact me, please send me a friend request on discord.
+
    **Discord:** 
    
  User12356789#6424 
