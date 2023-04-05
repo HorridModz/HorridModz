@@ -1,9 +1,9 @@
 # Welcome to my profile!
-I am a 14 year old programmer and game modder.
+I am a 14 year old programmer, reverse engineer, and game modder.
 
 I post lots of stuff on github, even if it's useless or unfinished.
 
-Feel free to use any of my work with credit. I believe in GPL (I just always forget to add it to my repositories)
+Feel free to use any of my work with credit. I believe in GPL (I just always forget to add it to my repositories).
 
 If you would like to contact me, please send me a friend request on discord.
 
