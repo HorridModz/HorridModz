@@ -7,22 +7,17 @@ Feel free to use any of my work with credit. I believe in GPL (I just always for
 
 If you would like to contact me, please send me a friend request on discord.
 
-   **Discord:** 
+ **Discord:** 
    
- User12356789#6424 
- 
- Alt: 
- 
- User12356789#8073
+ User12356789#6424
  
  **Gameguardian:**
- 
 
 > [Gameguardian Profile](https://gameguardian.net/forum/profile/1234241-horridmodz/)
 
  **Youtube:**
  
-> [Youtube](https://www.youtube.com/channel/UCt17kVvITO-q-zUICdw7hUQ)
+> [Youtube Channel](https://www.youtube.com/channel/UCt17kVvITO-q-zUICdw7hUQ)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
 
