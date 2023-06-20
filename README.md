@@ -9,7 +9,7 @@ If you would like to contact me, please send me a friend request on discord.
 
  **Discord:** 
    
- User12356789#6424
+ @horridmodz (Old: User12356789#6424)
  
  **Gameguardian:**
 
@@ -17,9 +17,10 @@ If you would like to contact me, please send me a friend request on discord.
 
  **Youtube:**
  
-> [Youtube Channel](https://www.youtube.com/channel/UCt17kVvITO-q-zUICdw7hUQ)
+> [Youtube Channel](https://www.youtube.com/@HorridModz)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=HorridModz&theme=gruvbox)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
 
