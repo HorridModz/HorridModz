@@ -24,7 +24,7 @@ If you would like to contact me, please send me a friend request on discord.
 
 # Stats
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=HorridModz&theme=gruvbox)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=HorridModz&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorridModz)](https://github.com/anuraghazra/github-readme-stats)
