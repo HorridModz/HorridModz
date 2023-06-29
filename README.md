@@ -22,6 +22,10 @@ If you would like to contact me, please send me a friend request on discord.
  
 > [Youtube Channel](https://www.youtube.com/@HorridModz)
 
+**WordPress**
+
+> [WordPress Blog](https://horridmodz.wordpress.com/)
+
 # Stats
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=HorridModz&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
