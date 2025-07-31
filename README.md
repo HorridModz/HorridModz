@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I am a 14 year old programmer, reverse engineer, and game modder.
+I am a 16 year old programmer, reverse engineer, and game modder.
 
 I post lots of stuff on github, even if it's useless or unfinished.
 
@@ -8,11 +8,13 @@ Feel free to use any of my work with credit. I believe in GPL (I just always for
 
 If you would like to contact me, please send me a friend request on discord.
 
+**Disclaimer: ALL OF ME REVERSE ENGINEERING AND MODDING IS FOR EDUCATIONAL PURPOSES. I AM NOT LIABLE FOR ANY MISUSE.**
+
 # Socials
 
  **Discord:** 
    
- @horridmodz (Old: User12356789#6424)
+ @horridmodz
  
  **Gameguardian:**
 
